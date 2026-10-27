@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 465 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -2422,6 +2422,18 @@ Official remote server that monitors news sources, clusters articles by topic an
 - Tags: news, monitoring, content, oauth
 - Category: Communication and Productivity
 - Streamable HTTP endpoint: https://mcp.semantichub.app/mcp
+
+### Shipmail
+
+Business email on your own domain for people and AI agents: read, search, send and reply, and manage domains, mailboxes, inbox rules, calendars, newsletters and webhooks.
+
+- URL: https://github.com/shipmail-to/shipmail-mcp
+- Language: TypeScript
+- Provider: Shipmail
+- Official: yes
+- Tags: email, business-email, calendar, newsletters, remote
+- Category: Communication and Productivity
+- Streamable HTTP endpoint: https://shipmail.to/api/mcp
 
 ### Slack MCP Server
 

@@ -3861,6 +3861,25 @@
     }
   },
   {
+    "name": "Shipmail",
+    "url": "https://github.com/shipmail-to/shipmail-mcp",
+    "description": "Business email on your own domain for people and AI agents: read, search, send and reply, and manage domains, mailboxes, inbox rules, calendars, newsletters and webhooks.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "Shipmail",
+    "tags": [
+      "email",
+      "business-email",
+      "calendar",
+      "newsletters",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://shipmail.to/api/mcp"
+    }
+  },
+  {
     "name": "AISkills402",
     "url": "https://aiskills402.com",
     "description": "Remote MCP server (streamable HTTP, no key) to search tested Agent Skill files (SKILL.md), read a skill card with its x402 price and re-download a bought file; the files are paid per file over x402 (USDC on Base).",
